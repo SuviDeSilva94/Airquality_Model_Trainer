@@ -1,7 +1,3 @@
-Certainly! Here's a README for your GitHub repository, highlighting the technologies used in the project and the steps to run and use the code. This README will showcase your skills and knowledge as a software engineer, which could be valuable for recruiters:
-
----
-
 # Air Quality Prediction API
 
 This project provides an API to predict air quality (AQI) for the next 24 hours using historical air quality data and machine learning. The API uses data from OpenWeatherMap and a Random Forest model to generate predictions for cities based on PM2.5 and PM10 values.
